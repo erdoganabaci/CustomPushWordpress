@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254793128416",
+    "firebase_url": "https://pushnotificationadmin.firebaseio.com",
+    "project_id": "pushnotificationadmin",
+    "storage_bucket": "pushnotificationadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254793128416:android:a8ce2a22e23f188f",
+        "android_client_info": {
+          "package_name": "webfirmam.app.custompushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254793128416-vtgeg5o8k0csuej7g8819vs02hsci5ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7gu9PnAIMUbSFFBmsAubXL5dhEYQfw5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254793128416-vtgeg5o8k0csuej7g8819vs02hsci5ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
